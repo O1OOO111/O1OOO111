@@ -39,7 +39,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Godlove's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=O1OOO111&show_icons=true&hide_border=true" />
+  <img align="left" alt="Godlove's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=O1OOO111&show_icons=true&hide_border=true?count_private=true" />
 
 [twitter]: https://twitter.com/notgodlove
 [linkedin]: https://www.linkedin.com/in/godlove-damian-65460a156/
